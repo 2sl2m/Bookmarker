@@ -1,0 +1,31 @@
+.bookmark h2{
+  font-family: "Righteous", cursive;
+  font-size: 25px;
+  background-image: linear-gradient(to right, #3ca55c, #b5ac49);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.py-2{
+  text-align: center;
+  padding-top: 8px!important;
+  padding-bottom: 8px!important;
+  font-size: 50px;
+  font-family: "Pacifico", cursive;
+  color: #352e28;
+
+}
+
+section{
+  min-height: 100vh;
+  background-color: #f7ecde;
+}
+
+#submitBtn{
+  background-color: #d1512d;
+  color: white;
+}
+#submitBtn:hover {
+  color: white;
+  background-color: rgb(172, 101, 101);
+}
